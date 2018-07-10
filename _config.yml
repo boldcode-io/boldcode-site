@@ -10,7 +10,7 @@ sass:
 livereload: true
 baseurl: ""
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
