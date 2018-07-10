@@ -1,5 +1,7 @@
 #!/bin/sh
 # change the branch names appropriately
+set -x
+
 rm -rf _site/
 jekyll build
 git push origin master
