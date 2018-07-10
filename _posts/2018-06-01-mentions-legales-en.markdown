@@ -4,7 +4,6 @@ title: Mentions légales
 subtitle: |-
   Une équipe d'experts au sein de votre entreprise pour une mise en conformité
   sans faille.
-permalink: none
 date: '2014-07-18'
 featured: false
 layout: modal
@@ -13,78 +12,77 @@ project-date: April 2014
 
 ---
 
-#### Acceptation de fait
+#### "De facto" acceptance
 
-En utilisant BOLDCODE.IO, l’internaute prend note et accepte les
-conditions ici après énumérées.
+By using BOLDCODE.IO, the user takes note and accepts the
+conditions listed here after.
 
-#### Abus
+#### Abuse
 
-En application de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l’économie numérique, pour signaler un contenu litigieux ou si vous êtes
-victime d’une utilisation frauduleuse du site BOLDCODE.IO, merci de
-contacter l’administrateur du site à l’adresse courriel :
-**glenn.rolland@boldcode.io**
+In application of the french law n°2004-575 of June 21st, 2004 for the
+confidence in the digital economy, to report contentious content or if you are
+victim of fraudulent use of the website BOLDCODE.IO, thank you contact the site
+administrator at the email address: **glenn.rolland@boldcode.io**
 
-#### Collecte et traitement de données personnelles
+#### Collection and processing of personal data
 
-Les informations recueillies par BOLDCODE.IO ne sont jamais communiquées
-à des tiers sans le consentement explicite des personnes concernées.  
-  
-Sauf cas particulier et encadré sur le support de collecte, ces informations
-proviennent de l’enregistrement volontaire de données personnelles fournies
-par l’internaute, avec son consentement explicite sur l’usage et le traitement
-de ces données.  
-  
-En application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique,
-aux fichiers et aux libertés, l’internaute dispose d’un droit d’accès, de
-rectification et de suppression des informations personnelles le concernant
-stockées par BOLDCODE.IO, qu’il peut exercer à tout moment auprès de son
-responsable, Glenn ROLLAND, à l'adresse suivante :
-**glenn.rolland@boldcode.io**.
+The information collected by BOLDCODE.IO is never communicated
+to third parties without the express consent of the persons concerned.
+
+Except in special cases and box on the collection medium, this information
+come from the voluntary registration of personal data provided
+by the user, with his explicit consent on the use and treatment
+of these data.
+
+In application of the french law n°78-17 of January 6th, 1978 relative to the
+computing, files and freedoms, the Internet user has a right of access,
+rectification and deletion of personal information about him stored by
+BOLDCODE.IO, which he can exercise at any time with his responsible, Glenn
+ROLLAND, at the following address: **glenn.rolland@boldcode.io**.
 
 #### Cookies
 
-Le site BOLDCODE.IO n'utilise d’aucun cookie, il est cookies free :)  
-  
-Toutefois BOLDCODE.IO utilise CLOUDFLARE a des fins de distribution du
-contenu des pages, entre l'hébergeur et l'internaute. Ce service insère un
-cookie a des fins techniques pour lui permettre d'acheminer correctement la
-connexion de l'internaute dans son infrastructure durant la visite du site.
+The website BOLDCODE.IO does not use any cookies, it is cookies free :)
 
-#### Propriétaire / Éditeur
+However BOLDCODE.IO uses CLOUDFLARE for distribution purposes of the
+content of the pages, between the host and the user. This service may inserts a
+cookie for technical purposes to allow it to properly route the
+connection of the user in his infrastructure during the visit of the site.
 
-BOLDCODE.IO est un site web édité par la société BOLDCODE SAS et publié sous la direction de Glenn ROLLAND.
 
-L’ensemble du site boldcode.io, pages et contenus, est la propriété de
+#### Owner / Publisher
+
+BOLDCODE.IO is a website published by the company BOLDCODE SAS and published
+under the direction of Glenn ROLLAND.
+
+The entire site boldcode.io, pages and contents, is the property of
 BOLDCODE SAS
-  
-Contact administratif du site BOLDCODE.IO : Glenn ROLLAND
+
+Administrative contact of the site BOLDCODE.IO: Glenn ROLLAND
 **glenn.rolland@boldcode.io**
 
-#### Hébergeur
+#### Hosting
 
-BOLDCODE.IO décline toute responsabilité quant aux éventuelles
-interruptions du site BOLDCODE.IO et de ses services.
+BOLDCODE.IO declines any responsibility as for the possible ones
+interruptions of the BOLDCODE.IO website and its services.
 
-#### Concepteur / Créateur
+#### Designer / Creator
 
-L’ensemble du site BOLDCODE.IO, conception, charte graphique et
-applications, a été créé et développé et est administré par BOLDCODE SAS.
+The whole site BOLDCODE.IO, design, graphic charter and
+applications, was created and developed and is administered by BOLDCODE SAS.
 
 #### Contenus et droits de reproduction
 
-En application des articles L. 111-1 et L. 123-1 du Code de la Propriété
-Intellectuelle, l’ensemble des contenus de ce site (textes, images, vidéos et
-tout média en général), sauf mention contraire explicite, est protégé par le
-droit d’auteur. La reproduction, même partielle, des contenus des pages de ce
-site sans accord préalable de BOLDCODE SAS est strictement interdite (les courtes
-citations sont autorisées par le droit français pour commentaires et
-critiques, tant que ceux-ci y sont strictement concomitants et que sont
-précisés l’auteur original et le lien Internet vers la page source).  
-  
-BOLDCODE SAS est immatriculée au RCS d'Annecy : 837 643 931 <!-- & géré par Fred
-de la compta  -->
-  
-© Copyright BOLDCODE SAS &mdash; Tous droits réservés.
+In application of Articles L. 111-1 and L. 123-1 of the French Property Code
+Intellectual, all the contents of this site (texts, images, videos and
+any media in general), unless explicitly stated otherwise, is protected by the
+copyright. The reproduction, even partial, of the contents of the pages of this
+without the prior consent of BOLDCODE SAS is strictly prohibited (short
+citations are permitted by French law for comments and
+as long as they are strictly concomitant and are
+specified the original author and the web link to the source page).
+
+BOLDCODE SAS is registered at Annecy RCS: 837 643 931
+
+© Copyright BOLDCODE SAS &mdash; All rights reserved.
 

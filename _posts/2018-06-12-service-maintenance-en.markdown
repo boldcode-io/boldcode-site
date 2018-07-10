@@ -5,7 +5,6 @@ title: Maintenance
 subtitle: |-
   Nos équipes reprennent, corrigent et adaptent vos outils numériques pour
   accompagner vos besoins.
-permalink: none
 alt: image-alt
 picture: service-maintenance.jpg
 thumbnail: service-maintenance-small.jpg
