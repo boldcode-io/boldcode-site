@@ -15,6 +15,10 @@ sass:
 livereload: true
 baseurl: ""
 
+exclude: 
+  - bin
+  - Gemfile*
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
