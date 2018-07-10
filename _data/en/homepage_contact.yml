@@ -12,6 +12,13 @@ consent: |-
 
 action: Send message
 
+placeholders:
+  name: Your name *
+  company: Your company *
+  email: Your email address *
+  phone: Your phone number *
+  message: Your message
+
 address: |-
   <h4>boldcode_</h4>
   <p>205 chemin des Pressouds<br/>
