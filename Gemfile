@@ -13,6 +13,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
   gem 'jekyll-livereload'
+  gem "jekyll-polyglot"
+
 #  gem 'jekyll-admin'
 end
 
