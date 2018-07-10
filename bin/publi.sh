@@ -5,8 +5,8 @@ set -u
 set -e
 
 # Cleanup
-git worktree remove -f _site
-rm -rf _site/
+git worktree remove -f _site || true
+rm -rf _site/ || true
 
 # Link to branch
 git worktree add -B gh-pages _site origin/gh-pages
