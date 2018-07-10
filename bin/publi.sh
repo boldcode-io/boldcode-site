@@ -1,6 +1,8 @@
 #!/bin/sh
 # change the branch names appropriately
 set -x
+set -u
+set -e
 
 # Cleanup
 git worktree remove -f _site
