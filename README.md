@@ -1,30 +1,18 @@
-Agency Jekyll theme
-====================
+# Boldcode Site
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+## Installation
 
-# How to use
+    bundle install
 
-###Portfolio 
+## Development
 
-Portfolio projects are in '/_posts'
+### Running development server
 
-Images are in '/img/portfolio'
+    bundle exec jekyll serve
 
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+### Building pages
 
 
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
 For more details, read [documentation](http://jekyllrb.com/)
+
+
