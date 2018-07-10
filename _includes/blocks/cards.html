@@ -12,15 +12,9 @@
             </div>
         </div>
         <div class="row">
-        {% comment %}
         {% for card in site.posts reversed %}
-        {% endcomment %}
-    	{% for card in block_data.items %}
-    		{% comment %}
-        	{% if card.type == block_data.selector %}
-            {% endcomment %}
+        	{% if card.type == block_data.selector and card.lang == site.active_lang %}
             <div class="col-md-4 col-sm-6 portfolio-item">
-    			{% comment %}
                 {% if card.interactive == true %}
                 <a href="#portfolioModal{{ card.modal-target-id }}" class="portfolio-link" data-toggle="modal">
                 {% endif %}
@@ -34,15 +28,12 @@
                 {% if card.interactive == true %}
                 </a>
                 {% endif %}
-            	{% endcomment %}
                 <div class="portfolio-caption">
                     <h4>{{ card.title }}</h4>
-                    <p class="text-muted">{{ card.description }}</p>
+                    <p class="text-muted">{{ card.subtitle }}</p>
                 </div>
             </div>
-    		{% comment %}
         	{% endif %}
-        	{% endcomment %}
         {% endfor %}
         </div>
     </div>

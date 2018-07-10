@@ -1,4 +1,5 @@
 ---
+lang: fr
 type: service
 title: Développement
 subtitle: |-

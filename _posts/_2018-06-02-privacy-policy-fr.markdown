@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: Mentions légales
 subtitle: |-
   Une équipe d'experts au sein de votre entreprise pour une mise en conformité
