@@ -3,8 +3,8 @@ lang: en
 type: service
 title: Maintenance
 subtitle: |-
-  Nos équipes reprennent, corrigent et adaptent vos outils numériques pour
-  accompagner vos besoins.
+  Our teams review, revise and adapt your digital projects according to your
+  needs.
 alt: image-alt
 picture: service-maintenance.jpg
 thumbnail: service-maintenance-small.jpg

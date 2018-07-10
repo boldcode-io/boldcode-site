@@ -3,8 +3,8 @@ lang: en
 type: service
 title: Conception
 subtitle: |-
-  Nos ingénieurs vous accompagnent sur la conception technique et la réalisation
-  du cahier des charges.
+    Our engineers carry out the technical design and the write the
+    specification of your digital project.
 alt: image-alt
 picture: service-conception.jpg
 thumbnail: service-conception-small.jpg

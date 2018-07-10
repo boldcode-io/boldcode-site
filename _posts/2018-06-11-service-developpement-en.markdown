@@ -1,11 +1,10 @@
 ---
 lang: en
 type: service
-title: Développement
+title: Development
 subtitle: |-
-  Nos équipes dédiées réalisent sur-mesure votre site internet, votre site e-commerce
-  et vos applications web ou mobiles.
-alt: image-alt
+  Our dedicated teams develop your website, your e-commerce site and your web
+  or mobile applications.alt: image-alt
 picture: service-developpement.jpg
 thumbnail: service-developpement-small.jpg
 layout: modal
