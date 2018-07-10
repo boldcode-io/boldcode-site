@@ -2,7 +2,7 @@
 # MANDATORY SITE SETTINGS
 # =======================
 
-languages: ["en", "fr"]
+languages: ["fr", "en"]
 default_lang: "fr"
 exclude_from_localization: ["js", "img", "css"]
 parallel_localization: false
