@@ -23,15 +23,19 @@ exclude:
   - Gemfile.lock
 
 plugins:
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-polyglot
+  - jekyll-seo-tag
 
 url: https://boldcode.io
-title: Bold Code 
+title: boldcode_
 email: contact@boldcode.io
-description: "L'outsourcing IT éthique, au Népal"
+
+description_i18n:
+  en: "Ethical outsourcing in Nepal"
+  fr: "L'outsourcing IT éthique, au Népal"
+
 
 # JEKYLL PLUGINS
 # ==============

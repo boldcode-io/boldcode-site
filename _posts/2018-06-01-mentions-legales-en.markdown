@@ -1,9 +1,7 @@
 ---
 lang: en
 title: Mentions légales
-subtitle: |-
-  Une équipe d'experts au sein de votre entreprise pour une mise en conformité
-  sans faille.
+subtitle: 
 date: '2014-07-18'
 featured: false
 layout: modal

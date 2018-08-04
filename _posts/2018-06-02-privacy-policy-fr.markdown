@@ -1,13 +1,11 @@
 ---
 lang: fr
-title: Mentions légales
-subtitle: |-
-  Une équipe d'experts au sein de votre entreprise pour une mise en conformité
-  sans faille.
+title: Politique de confidentialité
+subtitle: 
 date: '2014-07-18'
 featured: false
 layout: modal
-modal-id: 4
+modal-id: 2
 project-date: April 2014
 
 ---
