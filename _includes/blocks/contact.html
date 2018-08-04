@@ -21,19 +21,19 @@
             	<div class="col-md-8 col-sm-12">
             		<div class="row">
             			<div class="control-group form-group col-md-6">
-            				<input type="text" class="form-control" placeholder="{{ block_data.placeholders.name }}" id="name" required data-validation-required-message="Entrer votre nom et prénom svp.">
+            				<input type="text" class="form-control" placeholder="{{ block_data.placeholders.name }}" id="name" required data-validation-required-message="{{ block_data.errors.name_required }}">
             				<p class="help-block text-danger"></p>
             			</div>
             			<div class="control-group form-group col-md-6 ">
-            				<input class="form-control" placeholder="{{ block_data.placeholders.company}}" id="entreprise" required data-validation-required-message="Entrer le nom de votre entreprise svp."></textarea>
+            				<input class="form-control" placeholder="{{ block_data.placeholders.company}}" id="entreprise" required data-validation-required-message="{{ block_data.errors.company_required }}"></textarea>
             			<p class="help-block text-danger"></p>
             			</div>
             			<div class="control-group form-group col-md-6">
-            				<input type="email" class="form-control" placeholder="{{ block_data.placeholders.email }}" id="email" name="email" required data-validation-required-message="Entrer votre adresse email svp.">
+            				<input type="email" class="form-control" placeholder="{{ block_data.placeholders.email }}" id="email" name="email" required data-validation-required-message="{{ block_data.errors.email_required }}">
             				<p class="help-block text-danger"></p>
             			</div>
             			<div class="control-group form-group col-md-6">
-            				<input type="tel" class="form-control" placeholder="{{ block_data.placeholders.phone }}" id="phone" required data-validation-required-message="Entrer votre numéro de téléphone svp.">
+            				<input type="tel" class="form-control" placeholder="{{ block_data.placeholders.phone }}" id="phone" required data-validation-required-message="{{ block_data.errors.phone_required }}">
             				<p class="help-block text-danger"></p>
             			</div>
             		</div>

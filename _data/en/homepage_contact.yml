@@ -12,6 +12,12 @@ consent: |-
 
 action: Send message
 
+errors:
+  name_required: Please enter your first name and your last name
+  company_required: Please enter the name of your company
+  email_required: Please enter your email address
+  phone_required: Please enter your phone number address
+
 placeholders:
   name: Your name *
   company: Your company *

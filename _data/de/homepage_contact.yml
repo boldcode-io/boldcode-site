@@ -12,6 +12,14 @@ consent: |-
 
 action: Send message
 
+errors:
+  name_required: Bitte geben Sie Ihren Vornamen und Ihren Nachnamen ein
+  company_required: Bitte geben Sie den Namen Ihrer Firma ein
+  email_required: Bitte geben Sie Ihre E-Mail-Adresse ein
+  phone_required: Bitte geben Sie Ihre Telefonnummer ein
+
+
+
 placeholders:
   name: Votre nom *
   company: Votre entreprise *

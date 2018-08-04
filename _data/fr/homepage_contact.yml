@@ -12,6 +12,12 @@ consent: |-
 
 action: Envoyer le message
 
+errors:
+  name_required: Entrer votre nom et prénom svp.
+  company_required: Entrer le nom de votre entreprise svp.
+  email_required: Entrer votre adresse email svp.
+  phone_required: Entrer votre numéro de téléphone svp.
+  
 placeholders:
   name: Votre nom *
   company: Votre entreprise *
