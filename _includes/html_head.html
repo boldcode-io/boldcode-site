@@ -7,7 +7,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
  	 <link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.baseurl }}" type="image/png"/>
 
-    <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+     <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}">
 
     <!-- Custom Fonts -->
     <!-- <link rel="stylesheet" href="{{ "/css/ext/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}"> -->
