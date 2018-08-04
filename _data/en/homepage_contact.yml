@@ -17,6 +17,7 @@ errors:
   company_required: Please enter the name of your company
   email_required: Please enter your email address
   phone_required: Please enter your phone number address
+  message_required: Please enter your message
 
 placeholders:
   name: Your name *

@@ -17,7 +17,7 @@ errors:
   company_required: Bitte geben Sie den Namen Ihrer Firma ein
   email_required: Bitte geben Sie Ihre E-Mail-Adresse ein
   phone_required: Bitte geben Sie Ihre Telefonnummer ein
-
+  message_required: Bitte geben Sie Ihre Nachricht ein
 
 
 placeholders:
