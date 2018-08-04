@@ -29,17 +29,44 @@ footer {
     line-height: 40px;
   }
 
-  span.copyright {
+  .copyright {
     text-transform: uppercase;
     text-transform: none;
     line-height: 40px;
   }
 
-  ul {
-display: inline-block;
+  .about-the-site {
+  	list-style-type: none;
+    margin-bottom: 0;
+
+    .translations {
+  		list-style-type: none;
+  		display: flex;
+  		justify-content: center;
+
+		li {
+			display: inline; 
+
+  			&:not(:first-child) {
+				margin-left: 10px;
+				&::before {
+					content: "|";
+					display: inline-block;
+					margin-right: 10px;
+				}
+			}
+
+			&:first-child {
+  				margin-left: 0;
+
+  			}
+		}
+
+    }
   }
 
-  ul.quicklinks {
+  .quicklinks {
+  	list-style-type: none;
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
