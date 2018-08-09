@@ -11,7 +11,7 @@
 
 <!-- Contact Form JavaScript -->
 <script src=" {{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script>
-<script src=" {{ "/js/contact_maily.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script>
+<script src=" {{ "/js/contact_maily_forms.js" | prepend: site.baseurl }}?t={{site.time | date: '%s%N'}}"></script>
 
 <!-- Lazy loader -->
 {% comment %}
@@ -37,7 +37,7 @@
 	if (isLocalhost) {
 		window.mailService = 'http://localhost:8080';
 	} else {
-		window.mailService = '//maily.' + window.location.host;
+		window.mailService = '//forms.' + window.location.host;
 	}
 
 	// force ssl on production 
