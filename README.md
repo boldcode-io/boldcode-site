@@ -8,7 +8,7 @@
 
 ### Running development server
 
-    bundle exec jekyll serve
+    bundle exec jekyll serve --livereload-port 13223
 
 ### Building pages
 

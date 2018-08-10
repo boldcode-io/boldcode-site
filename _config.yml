@@ -32,9 +32,14 @@ url: https://boldcode.io
 title: boldcode_
 email: contact@boldcode.io
 
-description_i18n:
+
+baseline_i18n:
   en: "Ethical outsourcing in Nepal"
   fr: "L'outsourcing IT éthique, au Népal"
+
+description_i18n:
+  en: "Our engagement: offering you top-quality technical services to carry out your website and mobile application projects"
+  fr: "Notre métier : vous offrir l'accès à des compétences techniques de haut niveau pour réaliser vos projets web et mobiles"
 
 
 # JEKYLL PLUGINS
