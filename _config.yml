@@ -21,6 +21,7 @@ exclude:
   - ".*.yml"
   - Gemfile
   - Gemfile.lock
+  - Dockerfile
 
 plugins:
   - jekyll-sitemap

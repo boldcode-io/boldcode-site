@@ -12,7 +12,7 @@ rm -rf _site/ || true
 git worktree add -B gh-pages _site origin/gh-pages
 
 # Build
-jekyll build
+JEKYLL_ENV=production jekyll build
 
 # Commit new changes
 cd _site

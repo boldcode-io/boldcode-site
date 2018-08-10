@@ -12,6 +12,7 @@
 
 ### Building pages
 
+    bundle exec jekyll build
 
 For more details, read [documentation](http://jekyllrb.com/)
 
