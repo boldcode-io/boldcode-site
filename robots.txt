@@ -5,3 +5,5 @@ User-agent: *
 # Disallow: /*.gif$
 # Disallow: /images/
 Allow: /
+Sitemap: https://boldcode.io/sitemap.xml
+
