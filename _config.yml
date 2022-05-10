@@ -1,9 +1,9 @@
-
+---
 # MANDATORY SITE SETTINGS
 # =======================
 
 languages: ["fr", "en"] # de
-default_lang: "fr"
+default_lang: "en"
 exclude_from_localization: ["js", "img", "css"]
 parallel_localization: false
 
@@ -15,7 +15,7 @@ sass:
 livereload: true
 baseurl: ""
 
-exclude: 
+exclude:
   - bin
   - README.md
   - ".*.yml"
