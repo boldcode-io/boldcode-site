@@ -5,6 +5,11 @@
 	.partner-item {
 		text-align: center;
 		padding: 2rem;
+    display: flex;
+    max-height: 120px;
+    margin-bottom: 80px;
+    align-items: center;
+    justify-content: center;
 
 		a {
 			display: flex;
