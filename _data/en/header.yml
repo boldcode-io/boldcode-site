@@ -1,6 +1,6 @@
 intro:
-  lead-in: For your infrastructure and applications
-  heading: BOLDCODE_ , the global data company
+  lead-in: For your IT projects
+  heading: Make your next bold move with us
   action: Discover our offer
 
 menu:
@@ -8,10 +8,9 @@ menu:
     href: '#notre-metier'
   - title: Offer
     href: '#notre-offre'
-  - title: Values 
+  - title: Values
     href: '#nos-valeurs'
   - title: Partners
     href: '#nos-partenaires'
   - title: Contact
     href: '#contactez-nous'
-

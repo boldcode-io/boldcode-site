@@ -1,37 +1,43 @@
+---
 id: notre-metier
-title: Our engagement 
+title: Our engagement
 subtitle: |
-  Offering you top-quality technical services to carry out your website and mobile application projects
+  Providing digital solutions and cyber security services to humanitarian
+  organizations, INGOs, government-funded initiatives, media houses and
+  disruptive startups.
 
 items:
-  - title: Technical expertise 
+  - title: Technical expertise
     icon: cogs
     description: |
-      Our teams are expert in software development : we develop 
-      custom-made websites, e-commerce websites, web applications 
-      and mobile applications.
+      BoldCode_ is a technical agency specializing in designing and developing
+      data-centric custom software, web & mobile applications. 
+      Our priority: to meet your needs and provide you with the best quality.
 
-  - title: Affordable price
-    icon: hand-holding-usd
+  - title: Cybersecurity
+    # icon: hand-holding-usd
+    icon: shield
     description: |
-      Our top-quality technical resources are affordable for large 
-      companies as well as for startups or medium size companies.<br/><br/>
+      We take pride in providing robust security solutions to international
+      organizations with sensitive data that poses an immediate
+      threat to your business and to your communities.
 
   - title: Customized resources
     icon: users
     description: |
-      We can help you to balance your workload and to complete your teams on demand. 
-      We guarantee available developers dedicated to your company.
+      We can help you to balance your workload and to complete your teams on
+      demand.  We guarantee available developers dedicated to your company.
 
   - title: Social impact
     icon: hands-helping
     description: |
-      We use the difference of revenues between countries as a leverage to invest 
-      in education access in Nepal and to improve the working conditions locally.
-      
+      We are building a network of organizations in Asia and Africa to create
+      digital projects that empower the citizens and strengthens the democracy.
+      We hire and train resources to create world class IT developers and
+      project managers.
 
 # Plus besoin de se préoccuper de la rareté des profils en
-# informatique et la gestion du turnover, 
+# informatique et la gestion du turnover,
 
 # Entre le coût du recrutement, le salaire, la gestion du turnover, etc. Il
 # est intéressant d'équilibrer ses charges avec une équipe offshore. Sans

@@ -1,27 +1,28 @@
 id: nos-valeurs
 title: Our values
-subtitle: Develop long term opportunities in Nepal and stop the exodus of talents to western countries.
+subtitle: |
+  Develop long term opportunities in Nepal and stop the exodus of talents to
+  western countries.
 
 
 items:
   - description: |-
-      __We are committed to provide the best working condition 
-      available in Nepal to our employees.__ : 
+      While our clients are major INGOs and Intergovernmental Organizations, we
+      are committed to provide IT and cybersecurity services to smaller NGOs.
 
-      We offer competitive salaries, two days weekends,  paid holidays, 
-      and we are currently developing our own internal social security system 
-      for our employees and their family.
-      
-      __We are committed to maximize our social impact in Nepal.__
+      We also help smaller start ups with affordable IT solutions that can help
+      them kickstart their dream project.
+
+      Client’s security is of utmost importance to us. We provide regular
+      security audits and fixes to our regular clients.
 
   - description: |-
-      We carry out 3 types of social actions  :
-      
-      * __Collaboration with the Justice And Right Institute For Nepal__ to
-        make of BOLD CODE_ a model of human rights friendly company in Nepal.
-      * __Financing students education, by providing scholarships as well as 
-        paid internships__ for students at university.
-      * __Collaboration and financial support of local social enterprises, 
-        NGOs, and communities,__ for example Community Rural Development
-        Organization Nepal, and Girls in Technology Nepal.
+      We work with civil society, think-tanks and governments to promote
+      transparency and democracy through technology.
 
+      We believe in a global network of talents and are committed to create
+      better IT jobs in developing countries.
+
+      We are committed to maximize our social and environmental impact.
+
+#

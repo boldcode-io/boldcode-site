@@ -4,6 +4,54 @@ subtitle: They trust us
 selector: partners
 
 items:
+
+ - url: "#IOM"
+   picture: iom.png
+   show_title: false
+   title: IOM
+   picture_wide: true
+
+ - url: "#UNEP"
+   picture: unep.png
+   show_title: false
+   title: UN Environment Program
+   picture_wide: false
+
+ - url: "#IFRC"
+   show_title: false
+   picture: ifrc.png
+   title: IFRC
+   picture_wide: false
+
+ - url: "#IDMC"
+   show_title: false
+   picture: idmc.svg
+   title: IDMC
+   picture_wide: true
+
+ - url: "#DFS"
+   title: Data Friendly Space
+   picture: dfs.png
+   picture_wide: true
+
+ - url: "#NYU"
+   picture: nyu.png
+   show_title: false
+   title: New York University
+   picture_wide: false
+
+ - url: https://www.ticketforchange.org
+   show_title: false
+   picture: ticket-for-change.jpg
+   title: Ticket For Change
+   picture_wide: false
+
+ - url: "#VEDEM"
+   picture: vedem.png
+   show_title: false
+   title: Veilleur Des Médias
+   picture_wide: true
+
  - url: http://jurinepal.org.np
    title: Justice And Right Institute -- Nepal
    picture: justice-and-right-institute-nepal.jpg
@@ -32,12 +80,6 @@ items:
 #    picture: palpasa-coffee.jpg
 #    title: Palpasa Cafe
 #    picture_wide: false
-
- - url: https://www.ticketforchange.org
-   show_title: false
-   picture: ticket-for-change.jpg
-   title: Ticket For Change
-   picture_wide: false
 
 #  - url: https://www.facebook.com/groups/QUAKEVOLUNTEERS/
 #    show_title: false
