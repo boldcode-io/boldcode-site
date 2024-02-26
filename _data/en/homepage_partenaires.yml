@@ -34,11 +34,11 @@ items:
    picture: dfs.png
    picture_wide: true
 
- - url: "#NYU"
-   picture: nyu.png
-   show_title: false
-   title: New York University
-   picture_wide: false
+   # - url: "#NYU"
+   #   picture: nyu.png
+   #   show_title: false
+   #   title: New York University
+   #   picture_wide: false
 
  - url: https://www.ticketforchange.org
    show_title: false
