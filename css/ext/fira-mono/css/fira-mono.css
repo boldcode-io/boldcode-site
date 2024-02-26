@@ -1,0 +1,25 @@
+
+@font-face {
+  font-family: 'Fira Mono';
+  src: url('../fonts/fira-mono--regular.eot');
+  src: url('../fonts/fira-mono--regular.eot') format('embedded-opentype'), url('../fonts/fira-mono--regular.woff') format('woff'), url('../fonts/fira-mono--regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fira Mono';
+  src: url('../fonts/fira-mono--medium.eot');
+  src: url('../fonts/fira-mono--medium.eot') format('embedded-opentype'), url('../fonts/fira-mono--medium.woff') format('woff'), url('../fonts/fira-mono--medium.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fira Mono';
+  src: url('../fonts/fira-mono--bold.eot');
+  src: url('../fonts/fira-mono--bold.eot') format('embedded-opentype'), url('../fonts/fira-mono--bold.woff') format('woff'), url('../fonts/fira-mono--bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
